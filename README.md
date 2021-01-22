@@ -1,6 +1,6 @@
 # mobile-metrics-dashboard
 
-Interactive dashboard for representable [mobile metrics](https://github.com/matsoftware/mobile-metrics) data, built with **Python 3.7.1** using **Dash** and **Plotly Express**.
+Interactive dashboard for representable [mobile metrics](https://github.com/matsoftware/mobile-metrics) data, built with **Python 3.7.9** using **Dash** and **Plotly Express**.
 
 ## Pre-requisites
 
@@ -23,7 +23,7 @@ The dashboard can be configured by editing the `config.yml` file:
 ```yaml
 title: 'Mobile Metrics Dashboard'
 repo_name: 'Main repository'
-footer_text: 'Ⓒ 2020 <author>'
+footer_text: 'Ⓒ 2021 <author>'
 render_metrics:
     app_size:
         download_size_trend: true

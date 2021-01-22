@@ -1,6 +1,6 @@
 title: 'Mobile Metrics Dashboard'
-repo_name: '<main repository>'
-footer_text: 'Ⓒ 2020 <author>'
+repo_name: 'Demo App'
+footer_text: 'Ⓒ 2021 Mattia Campolese'
 render_metrics:
     app_size:
         download_size_trend: true
